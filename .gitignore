@@ -1,0 +1,29 @@
+# MATLAB / Simulink generated files
+slprj/
+*_ert_rtw/
+*.slxc
+*.autosave
+*.asv
+*.mex*
+codegen/
+
+# Keil generated files
+**/MDK-ARM/build/
+**/MDK-ARM/DebugConfig/
+**/MDK-ARM/.cmsis/
+**/MDK-ARM/.eide/
+**/MDK-ARM/.vscode/
+*.o
+*.obj
+*.d
+*.dep
+*.axf
+*.hex
+*.map
+*.lnp
+*.lst
+*.uvguix.*
+
+# OS files
+.DS_Store
+Thumbs.db
